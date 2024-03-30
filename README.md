@@ -1,4 +1,4 @@
-Introduction
+**Introduction**
 
 With intrusion detection system, major challenge that is seen is unbalanced dataset. Traditional 
 oversampling techniques leads to overfitting and this is not really helpful in highly imbalanced class 
